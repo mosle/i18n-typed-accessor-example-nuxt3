@@ -1,0 +1,30 @@
+{
+  "section1": {
+    "a": {
+      "value": "1a-zhCN",
+      "b": {
+        "value": "1b-zhCN",
+        "c": {
+          "value": "1c-zhCN",
+          "d": {
+            "value": "1d-zhCN"
+          }
+        }
+      }
+    }
+  },
+  "section2": {
+    "a": {
+      "value": "2a-zhCN",
+      "b": {
+        "value": "2b-zhCN",
+        "c": {
+          "value": "2c-zhCN",
+          "d": {
+            "value": "2d-zhCN"
+          }
+        }
+      }
+    }
+  }
+}

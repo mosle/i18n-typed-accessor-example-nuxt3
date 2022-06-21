@@ -1,0 +1,30 @@
+{
+  "section1": {
+    "a": {
+      "value": "1a-ja",
+      "b": {
+        "value": "1b-ja",
+        "c": {
+          "value": "1c-ja",
+          "d": {
+            "value": "1d-ja"
+          }
+        }
+      }
+    }
+  },
+  "section2": {
+    "a": {
+      "value": "2a-ja",
+      "b": {
+        "value": "2b-ja",
+        "c": {
+          "value": "2c-ja",
+          "d": {
+            "value": "2d-ja"
+          }
+        }
+      }
+    }
+  }
+}

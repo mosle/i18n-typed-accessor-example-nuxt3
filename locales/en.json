@@ -1,0 +1,30 @@
+{
+  "section1": {
+    "a": {
+      "value": "1a-en",
+      "b": {
+        "value": "1b-en",
+        "c": {
+          "value": "1c-en",
+          "d": {
+            "value": "1d-en"
+          }
+        }
+      }
+    }
+  },
+  "section2": {
+    "a": {
+      "value": "2a-en",
+      "b": {
+        "value": "2b-en",
+        "c": {
+          "value": "2c-en",
+          "d": {
+            "value": "2d-en"
+          }
+        }
+      }
+    }
+  }
+}
